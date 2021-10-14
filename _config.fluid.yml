@@ -498,13 +498,13 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: /img/default.png
+  banner_img: https://suntianjing-images-1301777760.cos.ap-nanjing.myqcloud.com/img/5977674c0f97518c0a638239042e5ac0.png
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
   # 文章在首页的默认封面图，当没有指定 index_img 时会使用该图片，若两者都为空则不显示任何图片
   # Path of the default post cover when `index_img` is not set. If both are empty, no image will be displayed
-  default_index_img:
+  default_index_img: https://suntianjing-images-1301777760.cos.ap-nanjing.myqcloud.com/img/4f5e9a0321cad079173ee295e82527bf.jpg
 
   # 文章标题下方的元信息
   # Meta information below title
@@ -792,7 +792,7 @@ cusdis:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: /img/default.png
+  banner_img: https://suntianjing-images-1301777760.cos.ap-nanjing.myqcloud.com/img/73cdef9beb6287fb6eb3ad192cc67390.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -804,7 +804,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: /img/default.png
+  banner_img: https://suntianjing-images-1301777760.cos.ap-nanjing.myqcloud.com/img/4705f2c189e7b61cf3c4f4171245dd0a.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -834,7 +834,7 @@ category:
 #---------------------------
 tag:
   enable: true
-  banner_img: /img/default.png
+  banner_img: https://suntianjing-images-1301777760.cos.ap-nanjing.myqcloud.com/img/335b2c3fe4395856890407bb58b3522a.png
   banner_img_height: 80
   banner_mask_alpha: 0.3
   subtitle:
@@ -852,7 +852,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: /img/default.png
+  banner_img: https://suntianjing-images-1301777760.cos.ap-nanjing.myqcloud.com/img/335b2c3fe4395856890407bb58b3522a.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
